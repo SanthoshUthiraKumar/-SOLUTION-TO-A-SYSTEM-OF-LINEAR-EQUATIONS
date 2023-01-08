@@ -35,5 +35,5 @@ print(sol)
 ![images](./images/linearequationoutput.png)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the Solutions for the linear equations are successfully solved using python program
 
